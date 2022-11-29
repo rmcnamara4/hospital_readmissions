@@ -3,3 +3,15 @@ X_test_encoded.csv filter=lfs diff=lfs merge=lfs -text
 X_val_encoded.csv filter=lfs diff=lfs merge=lfs -text
 X_dev_encoded_final.csv filter=lfs diff=lfs merge=lfs -text
 X_test_encoded_final.csv filter=lfs diff=lfs merge=lfs -text
+X_test.csv filter=lfs diff=lfs merge=lfs -text
+X_test_final.csv filter=lfs diff=lfs merge=lfs -text
+X_train.csv filter=lfs diff=lfs merge=lfs -text
+X_val.csv filter=lfs diff=lfs merge=lfs -text
+diabetic_data.csv filter=lfs diff=lfs merge=lfs -text
+y_train.csv filter=lfs diff=lfs merge=lfs -text
+y_val.csv filter=lfs diff=lfs merge=lfs -text
+IDs_mapping.csv filter=lfs diff=lfs merge=lfs -text
+X_dev_final.csv filter=lfs diff=lfs merge=lfs -text
+y_dev_final.csv filter=lfs diff=lfs merge=lfs -text
+y_test.csv filter=lfs diff=lfs merge=lfs -text
+y_test_final.csv filter=lfs diff=lfs merge=lfs -text
